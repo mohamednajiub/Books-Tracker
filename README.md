@@ -7,7 +7,7 @@ To get started developing right away:
 * start the development server with `npm start`
 
 ## Setup Instructions
-- `git clone https://github.com/muhammedemad/Books-Tracker.git`
+- `git clone https://github.com/mohamednajiub/Books-Tracker.git`
 - `cd Book-Library`
 - `npm install`
 - `npm start`
